@@ -12,3 +12,7 @@
 ## Files description
  * Chat.text : It is used as corpus for the project
  * Chatbot.ipynb : It ipython jupyter notebook containing chatbot code.
+ 
+ ## License & copyright
+ © Rahul Kumar  
+ Licensed under the [MIT License](LICENSE)
