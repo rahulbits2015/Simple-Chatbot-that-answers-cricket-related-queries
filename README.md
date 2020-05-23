@@ -14,5 +14,5 @@
  * Chatbot.ipynb : It ipython jupyter notebook containing chatbot code.
  
  ## License & copyright
- © Rahul Kumar  2020
+ © Rahul Kumar  2020  
  Licensed under the [MIT License](LICENSE)
